@@ -63,7 +63,7 @@ Create a New Database in SQL: "online_shopping_application"
 ```
 ## Run Locally
 
-
+Go to the Project Directory
 
 
 ```bas
@@ -128,28 +128,6 @@ http://localhost:8888
 ## Order API Reference
 ![image](https://user-images.githubusercontent.com/108060013/230663655-83ffd46b-3520-4495-8994-daead1c76a07.png)
 
-
-
-# Contributors
-
-#### Kumar Vishal Anand
-> Github: [Im-vishalanand](https://github.com/Im-vishalanand) 
-(Teamlead)
-
-> => created the controller of order, product and user.
-
-> => Implemented the service methods order, product and user.
-
-#### Md Humair Raza
-> Github: [mdhumairraza](https://github.com/mdhumairraza)
-
-> => Created controller of Customer , admin, cart, address, login and logout.
-
-> => Implemented the service methods of Customer , admin, cart, address, login and logout.
-
-#### Vivek Sangode
->Github: [vivekSangode](https://github.com/vivekSangode)
-Worked on Exceptional Handling and Respositories
 
 
 
