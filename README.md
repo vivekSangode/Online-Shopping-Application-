@@ -64,7 +64,7 @@ Create a New Database in SQL: "online_shopping_application"
 ## Run Locally
 
 
-Go to the Project Directory
+
 
 ```bas
 Open the Online_Shopping_System Folder with S.T.S
